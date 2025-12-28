@@ -1,7 +1,6 @@
 ---
 title: "Welcome to my blog"
 ---
-# Ask Orion
 
 **Cloud & desktop answers from the trenches**
 
